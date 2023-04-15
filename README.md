@@ -5,7 +5,7 @@
 
 
 
-- 🌱 learning machine learning and datascience everyday
+- 🌱 learning machine learning and data science everyday
 
 - 📫 How to reach me **rasoolahad1997.work@gmail.com**
 
