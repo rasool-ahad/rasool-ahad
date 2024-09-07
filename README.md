@@ -5,7 +5,7 @@
 
 
 
-- 🌱 learning machine learning and data science everyday
+- 🌱 Backend Developer (ASP.NET)
 
 - 📫 How to reach me **rasoolahad1997.work@gmail.com**
 
