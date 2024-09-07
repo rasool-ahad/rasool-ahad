@@ -32,7 +32,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -61,7 +61,7 @@
       width="40" height="40" /> </a> 
 
 
-</p>
+</p>-->
 
 <br>
 
